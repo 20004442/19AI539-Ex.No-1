@@ -104,8 +104,6 @@ activity_main.xml
 
 ## OUTPUT
 
-![Screenshot (522)](https://user-images.githubusercontent.com/75235813/162229824-f082f98d-f8ea-4aab-9489-ffc92e549df9.png)
-
 ![Screenshot (533)](https://user-images.githubusercontent.com/75235813/162773867-41cdc271-534c-43a0-8ea3-b8bd48b48904.png)
 
 ![Screenshot (537)](https://user-images.githubusercontent.com/75235813/162775008-82f27bfe-f010-40ff-8bfd-2b0b3930bf28.png)
